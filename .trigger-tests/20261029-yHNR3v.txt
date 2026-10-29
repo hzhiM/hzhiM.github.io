@@ -1,0 +1,5 @@
+GitHub Trigger integration test
+Test date: 2026-10-29
+Purpose: Generate a pull_request opened event for Bailian pre-production verification.
+Repository: hzhiM/hzhiM.github.io
+This file belongs to the test branch and does not change application behavior.
